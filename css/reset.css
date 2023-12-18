@@ -11,7 +11,7 @@
 
 html{
    font-size:62.5%; /*16px mult 62.5% = 10 rem */
-   background: url(../asset/bgcolor.jpg)no-repeat fixed center center / cover;
+   background: url(../asset/bgcover.jpg)no-repeat fixed center center / cover;
 }
 body{
     font: 1.6rem "",sans-serif;

@@ -60,7 +60,7 @@ footer*{
 
 
 /* media queris */
-@media screen and (max-width: 80rem){
+@media screen and (max-width: 50rem){
     figure figcaption ul{
         line-height: 6rem;
     }
@@ -69,7 +69,7 @@ footer*{
     }
 }
 
-@media screen and (max-width: 100rem){
+@media screen and (max-width: 70rem){
     figure figcaption ul{
         line-height: 6rem;
     }
