@@ -12,14 +12,14 @@
 html{
    font-size:62.5%; /*16px mult 62.5% = 10 rem */
    background:linear-gradient(to top,rgba(0,0,0,.6) 50%,rgba(0,0,0,.6) 50%),
-   url(../asset/Batman.jpg)no-repeat fixed center center / cover;
+   url(../asset/batred.jpg)no-repeat fixed center / cover;
 }
 body{
     font: 1.6rem "Roboto",sans-serif;
     margin: 0;
     letter-spacing: 0.1rem;
     line-height: 1.6;
-    background-color: rgb(0, 0, 0);
+   /* background-color: rgb(0, 0, 0); */
    
 }
 h1, h2, h3, p, figure, ul{
