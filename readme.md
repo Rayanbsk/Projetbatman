@@ -2,6 +2,6 @@
 ![Cover](https://i.imgur.com/hgknLEP.jpg)
 [Voir la page](https://rayanbsk.github.io/Projetbatman/)
 
->📄Page de garde pour Batamn
+>📄Page de garde pour Batman
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
