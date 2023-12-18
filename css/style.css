@@ -3,7 +3,9 @@
    ============================== */
    
    
-  @import url('https://fonts.googleapis.com/css2?family=Dhurjati&display=swap');
+   
+   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+ 
 
  
 
@@ -11,7 +13,7 @@ html{
    font-size:62.5%; /*16px mult 62.5% = 10 rem */
 }
 body{
-    font: 1.6rem "Dhurjati",sans-serif;
+    font: 1.6rem "Roboto",sans-serif;
     margin: 0;
     letter-spacing: 0.1rem;
     line-height: 1.6;
