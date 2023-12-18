@@ -1,5 +1,5 @@
 /*Section 2 - Theme css*/
-
+@import url("./reset.css");
 
 :root{
     --bgcolor-theme: rgba(45,52,54,1.0); 
@@ -21,7 +21,7 @@ header > h1{
 }
 
 figure{
-    max-width: 90rem;
+    max-width: 60rem;
     margin: 0 auto;
     border: solid .1rem #f5ebeb;
     padding: 1rem;
